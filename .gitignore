@@ -1,0 +1,11 @@
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db

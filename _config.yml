@@ -1,0 +1,12 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Juan Christian
+description:      'Some of my cyber security adventures.'
+url:              https://juanchristian.github.io
+
+paginate:         5
+
+# Custom vars
+linkedin:         https://www.linkedin.com/in/juanchristian
